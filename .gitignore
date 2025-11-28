@@ -1,0 +1,11 @@
+# KiCad backups and cache
+*.bak
+*.tmp
+*.kicad_prl
+sym-lib-table-bak
+fp-lib-table-bak
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+__pycache__/
